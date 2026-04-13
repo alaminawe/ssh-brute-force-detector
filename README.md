@@ -32,4 +32,4 @@ A Python-based security tool that monitors SSH authentication logs, detects brut
 ## Author
 Al-amin Awe
 Morgan State University - Cybersecurity
-www.linkedin.com/al-amin-awe
+https://www.linkedin.com/in/al-amin-awe-50aa12348/
